@@ -257,7 +257,7 @@ Create a new branch so you can check items like this, just put an x in the brack
     git push # just pushes to your fork
     ```
 
-**[⬆ back to top](#table-of-contents)**
+**[⬆ back top](#table-of-contents)**
 
 ## Don't feel you aren't smart enough
 
